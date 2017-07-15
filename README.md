@@ -1,5 +1,5 @@
 # LPTW
-learn python the hard way exercises  
-this is a secondary branch  
-#完
+Learn python the hard way exercises  
+follow through the Zed Shaw marsterwork
+#
 
